@@ -5,9 +5,13 @@
 ### Internship Details
 
 **Name:** Patel Rudra
+
 **Domain:** Python Programming
+
 **Task Number:** 2
+
 **Task Title:** BMI Calculator
+
 **Organization:** Oasis Infobyte (OIBSIP)
 
 ---
