@@ -54,9 +54,6 @@ BMI = Weight (kg) ÷ Height² (m²)
 
 * Python
 * Streamlit
-* Visual Studio Code
-* Git
-* GitHub
 
 ---
 
