@@ -131,9 +131,4 @@ OIBSIP_PythonProgramming_Task2/
 ## Author
 
 **Patel Rudra**
-Python Programming Intern
-Oasis Infobyte (OIBSIP)
 
----
-
-**AICTE OIB-SIP May 2026**
